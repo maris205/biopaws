@@ -1,4 +1,7 @@
-## Code Repository for the Paper
+## Emergence of Biological Structural Discovery in General-Purpose Language Models
+
+### Abstract
+Large language models (LLMs) are evolving into engines for scientific discovery, yet the assumption that biological understanding requires domain-specific pre-training remains unchallenged. Here, we report that general-purpose LLMs possess an emergent capability for biological structural discovery. First, we demonstrate that a small-scale GPT-2, fine-tuned solely on English paraphrasing, achieves ~84% zero-shot accuracy in protein homology detection, where network-based interpretability confirms a deep structural isomorphism between human language and the language of life. Scaling to massive models (e.g., Qwen-3) reveals a phase transition, achieving near-perfect accuracy (~100%) on standard tasks while maintaining 75% precision on specially constructed remote homology datasets. Chain-of-Thought interpretability reveals that these models transcend simple sequence alignment, leveraging implicit structural knowledge to perform reasoning akin to "mental folding." We formalize this cross-modal universality through the BioPAWS benchmark. Our work establishes a minimalist paradigm for AI for Science, proving that abstract logical structures distilled from human language constitute a powerful cognitive prior for decoding the complex syntax of biology.
 
 ### 1. Basic Data Preparation: `1-data`
 
