@@ -35,6 +35,11 @@ Large language models (LLMs) are evolving into engines for scientific discovery,
 - `3-qwen3_dna_single`: Single DNA sequence classification  
 - `4-qwen3_protein_single`: Single protein sequence classification
 
+### gemini chat history
+- paper: https://gemini.google.com/share/98b9335c3ddb
+- data: https://gemini.google.com/share/37c12b897bbc
+- some codes (grok): https://grok.com/share/c2hhcmQtMw_da2af51b-7586-46ff-bd4b-319e19ca37d7
+
 ---
 
 > **Note**: Wildcards (`*`) in original notebook filenames have been preserved or generalized for clarity while maintaining semantic meaning.
