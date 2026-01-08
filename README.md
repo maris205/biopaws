@@ -41,12 +41,7 @@ Large language models (LLMs) are evolving into engines for scientific discovery,
 - some codes (grok): https://grok.com/share/c2hhcmQtMw_da2af51b-7586-46ff-bd4b-319e19ca37d7
 
 ### cite paper
-Emergence of Biological Structural Discovery in General-Purpose Language Models
-Liang Wang
+Liang Wang, Emergence of Biological Structural Discovery in General-Purpose Language Models,
 bioRxiv 2026.01.03.697478; doi: https://doi.org/10.64898/2026.01.03.697478
 
----
 
-> **Note**: Wildcards (`*`) in original notebook filenames have been preserved or generalized for clarity while maintaining semantic meaning.
-
----
